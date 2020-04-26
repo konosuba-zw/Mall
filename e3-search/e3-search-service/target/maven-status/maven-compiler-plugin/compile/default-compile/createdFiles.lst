@@ -1,0 +1,9 @@
+cn\e3mall\search\mapper\ItemMapper.class
+cn\e3mall\search\service\impl\SearchItemServiceImpl.class
+cn\e3mall\search\dao\SearchDao.class
+cn\e3mall\solrj\TestSolrJ.class
+cn\e3mall\search\activemq\MessageConsumer.class
+cn\e3mall\search\message\ItemAddMessageListener.class
+cn\e3mall\search\service\impl\SearchServiceImpl.class
+cn\e3mall\search\message\MyMessageListener.class
+cn\e3mall\solrj\TestSolrCloud.class
